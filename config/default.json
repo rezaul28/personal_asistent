@@ -1,0 +1,19 @@
+{
+    "live" : false,
+    "DB_URL_DEV": "mongodb+srv://reza:105796@cluster0.ywkip.mongodb.net/personal_assistant?retryWrites=true&w=majority",
+    "TEST_DB_URL": "mongodb+srv://reza:105796@cluster0.ywkip.mongodb.net/personal_assistant-test?retryWrites=true&w=majority",
+    "EMAIL_SECRET" : "email%$prescription&&&@secret##.",
+    "SESSION_SECRET": "preScriPtion-_geNeRATOR+-@#./,",
+    "SESSION_NAME": "prescription-generator",
+    "DEV_BACKEND_PORT": 5000,
+    "BACKEND_URL_DEV": "http://localhost:5000",
+    "FRONTEND_URL_DEV": "http://localhost:3000",
+    "STRING_MIN" : 5,
+    "STRING_MAX" :20,
+    "PAGINATION" : 10,
+    "EMAIL":"prescription.generator21@gmail.com",
+    "EMAIL_PASS" :"ojwsydnkzqpscznn",
+    "DB_URL":"abc",
+    "BACKEND_URL" : "",
+    "FRONTEND_URL" : ""
+}

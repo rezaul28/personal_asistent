@@ -1,0 +1,31 @@
+{
+  "name": "personal_assistant",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --watch",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezaul28/personal_asistent.git"
+  },
+  "author": "Rezaul Karim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rezaul28/personal_asistent/issues"
+  },
+  "homepage": "https://github.com/rezaul28/personal_asistent#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "config": "^3.3.6",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.12",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.1.6"
+  }
+}
